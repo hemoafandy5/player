@@ -1,0 +1,21 @@
+{
+  "name": "جدول الترتيب والمباريات",
+  "short_name": "جدول",
+  "theme_color": "#2f2f2f",
+  "background_color": "#0e0e0e",
+  "display": "standalone",
+  "Scope": "https://doc.seoplus-template.com/",
+  "start_url": "https://doc.seoplus-template.com/",
+  "icons": [
+    {
+      "src": "https://3.bp.blogspot.com/-T-V-PJOU4v0/XZYzHfq1dYI/AAAAAAAABOw/obz8rMcwKgEvPkHP1ahM2tyAqm8fRYZYwCK4BGAYYCw/s0/256-256.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-T-V-PJOU4v0/XZYzHfq1dYI/AAAAAAAABOw/obz8rMcwKgEvPkHP1ahM2tyAqm8fRYZYwCK4BGAYYCw/s0/256-256.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
